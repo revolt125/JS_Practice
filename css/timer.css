@@ -9,7 +9,7 @@ html, body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("../../images/bg4.jpg");
+    background-image: url("../images/bg4.jpg");
     background-size: cover;
     background-position: center center;
     font-family: "Microsoft JhengHei","Heiti TC","sans-serif";
